@@ -1,5 +1,39 @@
 # Hotel-Bookings-EDA-and-Preprocessing
 
+## Dataset Description
+
+### Hotel Booking Demand Dataset
+
+This project uses the **Hotel Booking Demand Dataset** from Kaggle.
+
+The dataset contains hotel booking information for two types of hotels:
+- City Hotel
+- Resort Hotel
+
+It includes booking details such as customer information, arrival dates, length of stay, meal preferences, room types, booking changes, deposit types, and reservation status.
+
+### Dataset Information
+
+- **Dataset Name:** Hotel Booking Demand
+- **Total Records:** 119,390
+- **Total Features:** 32
+- **Problem Type:** Binary Classification
+- **Target Variable:** `is_canceled`
+
+### Objective
+
+The main objective is to analyze hotel booking patterns and develop a machine learning classification model to predict whether a hotel reservation will be cancelled or not.
+
+### Target Variable
+
+- `0` – Booking not cancelled
+- `1` – Booking cancelled
+
+### Dataset Source
+
+Kaggle: [Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+
 ## About the Project
 
 This project is based on the Hotel Booking Demand dataset. Our main goal is to explore the dataset, understand the patterns behind hotel bookings and cancellations, and prepare the data for a Machine Learning classification task.

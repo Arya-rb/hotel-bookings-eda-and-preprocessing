@@ -42,6 +42,16 @@ We have worked on different stages of data preprocessing, starting from understa
 
 The project is divided into five sections, with each team member responsible for a particular part of the workflow.
 
+## Key Highlights
+
+- Analyzed 119,390 hotel booking records.
+- Performed data cleaning and exploratory data analysis.
+- Handled missing values and outliers.
+- Applied numerical scaling and categorical encoding.
+- Addressed class imbalance using SMOTE.
+- Performed feature selection to identify relevant features.
+- Prepared the final dataset for machine learning model development.
+
 ## What We Worked On
 
 ### 1. Data Understanding & Exploratory Data Analysis (EDA)
@@ -104,6 +114,14 @@ We used Python and the following libraries throughout the project:
 - **Imbalanced-learn** – For handling class imbalance using SMOTE.
 - **Google Colab** – For writing and executing the notebook.
 - **GitHub** – For maintaining the project and collaborating as a team.
+  
+## Project Structure
+
+Hotel-Bookings-EDA-and-Preprocessing/
+│
+├── Hotel_Booking_Preprocessing.ipynb
+├── README.md
+└── hotel_bookings.csv
 
 ## Dataset
 

@@ -1,4 +1,4 @@
-# hotel-bookings-eda-and-preprocessing
+# Hotel-Bookings-EDA-and-Preprocessing
 
 ## About the Project
 

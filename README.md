@@ -161,9 +161,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 ## Current Project Status
 
-We have completed the data analysis and preprocessing stages. The final notebook brings together the work done by all five team members.
+We have successfully completed the EDA and Data Preprocessing stages. The final notebook consolidates the contributions of all five team members.
 
-The focus of this project is on preparing the dataset for a Machine Learning classification task. Model training and evaluation are outside the scope of this current notebook.
+The project focuses on preparing the dataset for a Hotel Booking Cancellation Classification task. Model training and evaluation are outside the scope of this project.
 
 ---
 

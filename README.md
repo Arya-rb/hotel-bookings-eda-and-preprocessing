@@ -167,4 +167,3 @@ The focus of this project is on preparing the dataset for a Machine Learning cla
 
 ---
 
-**A collaborative Machine Learning project by Team.**
